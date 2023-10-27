@@ -1,3 +1,6 @@
 [submodule "occa"]
 	path = occa
 	url = https://github.com/libocca/occa
+[submodule "dace"]
+	path = dace
+	url = https://github.com/spcl/dace.git
